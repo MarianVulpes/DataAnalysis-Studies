@@ -1,0 +1,1 @@
+CSV file provido na atividade do curso https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
